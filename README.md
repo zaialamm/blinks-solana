@@ -1,2 +1,2 @@
-# voting-dapp-solana
-create a voting dapp on solana blockchain
+# Add Blinks
+integrate Blinks into a website to interact with Solana smart contracts
